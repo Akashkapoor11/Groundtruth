@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Automated Insight Report</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 30px; }
+      h1 { color: #1a237e; }
+      .section { margin-bottom: 24px; }
+      table { border-collapse: collapse; width: 100%; }
+      th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+      th { background: #f2f2f2; }
+    </style>
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+    <p><strong>Period:</strong> {{ period }}</p>
+
+    <div class="section">
+      <h2>Top-level summary</h2>
+      <p>{{ summary }}</p>
+    </div>
+
+    <div class="section">
+      <h2>Key metrics (weekly)</h2>
+      <table>
+        <thead><tr><th>Week</th><th>Visitors</th><th>Sales</th><th>Revenue</th></tr></thead>
+        <tbody>
+        {% for r in table_rows %}
+          <tr><td>{{ r.week }}</td><td>{{ r.visitors }}</td><td>{{ r.sales }}</td><td>{{ r.revenue }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>Detected anomalies</h2>
+      <ul>
+        {% for a in anomalies %}
+          <li><strong>{{ a.week }}:</strong> {{ a.description }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Recommendations</h2>
+      <p>{{ recommendations }}</p>
+    </div>
+  </body>
+</html>

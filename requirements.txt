@@ -1,0 +1,9 @@
+pandas
+polars
+numpy
+matplotlib
+scikit-learn
+jinja2
+weasyprint
+python-pptx
+openai
