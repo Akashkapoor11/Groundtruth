@@ -1,0 +1,1971 @@
+{
+  "metrics": [
+    {
+      "week": "2012-12-31 00:00:00",
+      "visitors": 46,
+      "sales": 504,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": null
+      }
+    },
+    {
+      "week": "2013-01-07 00:00:00",
+      "visitors": 86,
+      "sales": 456,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 86.96
+      }
+    },
+    {
+      "week": "2013-01-14 00:00:00",
+      "visitors": 95,
+      "sales": 571,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 10.47
+      }
+    },
+    {
+      "week": "2013-01-21 00:00:00",
+      "visitors": 86,
+      "sales": 474,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -9.47
+      }
+    },
+    {
+      "week": "2013-01-28 00:00:00",
+      "visitors": 110,
+      "sales": 473,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 27.91
+      }
+    },
+    {
+      "week": "2013-02-04 00:00:00",
+      "visitors": 110,
+      "sales": 500,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2013-02-11 00:00:00",
+      "visitors": 112,
+      "sales": 522,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.82
+      }
+    },
+    {
+      "week": "2013-02-18 00:00:00",
+      "visitors": 123,
+      "sales": 521,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 9.82
+      }
+    },
+    {
+      "week": "2013-02-25 00:00:00",
+      "visitors": 130,
+      "sales": 419,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.69
+      }
+    },
+    {
+      "week": "2013-03-04 00:00:00",
+      "visitors": 155,
+      "sales": 407,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 19.23
+      }
+    },
+    {
+      "week": "2013-03-11 00:00:00",
+      "visitors": 158,
+      "sales": 432,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.94
+      }
+    },
+    {
+      "week": "2013-03-18 00:00:00",
+      "visitors": 178,
+      "sales": 375,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 12.66
+      }
+    },
+    {
+      "week": "2013-03-25 00:00:00",
+      "visitors": 159,
+      "sales": 397,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -10.67
+      }
+    },
+    {
+      "week": "2013-04-01 00:00:00",
+      "visitors": 181,
+      "sales": 268,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 13.84
+      }
+    },
+    {
+      "week": "2013-04-08 00:00:00",
+      "visitors": 206,
+      "sales": 217,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 13.81
+      }
+    },
+    {
+      "week": "2013-04-15 00:00:00",
+      "visitors": 206,
+      "sales": 219,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2013-04-22 00:00:00",
+      "visitors": 209,
+      "sales": 274,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.46
+      }
+    },
+    {
+      "week": "2013-04-29 00:00:00",
+      "visitors": 219,
+      "sales": 190,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.78
+      }
+    },
+    {
+      "week": "2013-05-06 00:00:00",
+      "visitors": 229,
+      "sales": 219,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.57
+      }
+    },
+    {
+      "week": "2013-05-13 00:00:00",
+      "visitors": 229,
+      "sales": 228,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2013-05-20 00:00:00",
+      "visitors": 261,
+      "sales": 159,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 13.97
+      }
+    },
+    {
+      "week": "2013-05-27 00:00:00",
+      "visitors": 235,
+      "sales": 267,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -9.96
+      }
+    },
+    {
+      "week": "2013-06-03 00:00:00",
+      "visitors": 244,
+      "sales": 334,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.83
+      }
+    },
+    {
+      "week": "2013-06-10 00:00:00",
+      "visitors": 218,
+      "sales": 449,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -10.66
+      }
+    },
+    {
+      "week": "2013-06-17 00:00:00",
+      "visitors": 223,
+      "sales": 436,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.29
+      }
+    },
+    {
+      "week": "2013-06-24 00:00:00",
+      "visitors": 223,
+      "sales": 432,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2013-07-01 00:00:00",
+      "visitors": 225,
+      "sales": 462,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.9
+      }
+    },
+    {
+      "week": "2013-07-08 00:00:00",
+      "visitors": 212,
+      "sales": 523,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -5.78
+      }
+    },
+    {
+      "week": "2013-07-15 00:00:00",
+      "visitors": 210,
+      "sales": 563,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.94
+      }
+    },
+    {
+      "week": "2013-07-22 00:00:00",
+      "visitors": 211,
+      "sales": 539,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.48
+      }
+    },
+    {
+      "week": "2013-07-29 00:00:00",
+      "visitors": 216,
+      "sales": 496,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.37
+      }
+    },
+    {
+      "week": "2013-08-05 00:00:00",
+      "visitors": 200,
+      "sales": 581,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.41
+      }
+    },
+    {
+      "week": "2013-08-12 00:00:00",
+      "visitors": 199,
+      "sales": 579,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.5
+      }
+    },
+    {
+      "week": "2013-08-19 00:00:00",
+      "visitors": 205,
+      "sales": 564,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.02
+      }
+    },
+    {
+      "week": "2013-08-26 00:00:00",
+      "visitors": 213,
+      "sales": 454,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.9
+      }
+    },
+    {
+      "week": "2013-09-02 00:00:00",
+      "visitors": 217,
+      "sales": 369,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.88
+      }
+    },
+    {
+      "week": "2013-09-09 00:00:00",
+      "visitors": 215,
+      "sales": 435,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.92
+      }
+    },
+    {
+      "week": "2013-09-16 00:00:00",
+      "visitors": 200,
+      "sales": 475,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -6.98
+      }
+    },
+    {
+      "week": "2013-09-23 00:00:00",
+      "visitors": 204,
+      "sales": 505,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.0
+      }
+    },
+    {
+      "week": "2013-09-30 00:00:00",
+      "visitors": 196,
+      "sales": 493,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -3.92
+      }
+    },
+    {
+      "week": "2013-10-07 00:00:00",
+      "visitors": 196,
+      "sales": 524,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2013-10-14 00:00:00",
+      "visitors": 182,
+      "sales": 513,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.14
+      }
+    },
+    {
+      "week": "2013-10-21 00:00:00",
+      "visitors": 170,
+      "sales": 478,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -6.59
+      }
+    },
+    {
+      "week": "2013-10-28 00:00:00",
+      "visitors": 157,
+      "sales": 444,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.65
+      }
+    },
+    {
+      "week": "2013-11-04 00:00:00",
+      "visitors": 135,
+      "sales": 496,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -14.01
+      }
+    },
+    {
+      "week": "2013-11-11 00:00:00",
+      "visitors": 120,
+      "sales": 466,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -11.11
+      }
+    },
+    {
+      "week": "2013-11-18 00:00:00",
+      "visitors": 127,
+      "sales": 455,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.83
+      }
+    },
+    {
+      "week": "2013-11-25 00:00:00",
+      "visitors": 133,
+      "sales": 442,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.72
+      }
+    },
+    {
+      "week": "2013-12-02 00:00:00",
+      "visitors": 117,
+      "sales": 524,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -12.03
+      }
+    },
+    {
+      "week": "2013-12-09 00:00:00",
+      "visitors": 114,
+      "sales": 528,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.56
+      }
+    },
+    {
+      "week": "2013-12-16 00:00:00",
+      "visitors": 106,
+      "sales": 643,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.02
+      }
+    },
+    {
+      "week": "2013-12-23 00:00:00",
+      "visitors": 86,
+      "sales": 523,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -18.87
+      }
+    },
+    {
+      "week": "2013-12-30 00:00:00",
+      "visitors": 89,
+      "sales": 588,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.49
+      }
+    },
+    {
+      "week": "2014-01-06 00:00:00",
+      "visitors": 85,
+      "sales": 567,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.49
+      }
+    },
+    {
+      "week": "2014-01-13 00:00:00",
+      "visitors": 92,
+      "sales": 607,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.24
+      }
+    },
+    {
+      "week": "2014-01-20 00:00:00",
+      "visitors": 99,
+      "sales": 636,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.61
+      }
+    },
+    {
+      "week": "2014-01-27 00:00:00",
+      "visitors": 106,
+      "sales": 545,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.07
+      }
+    },
+    {
+      "week": "2014-02-03 00:00:00",
+      "visitors": 118,
+      "sales": 483,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.32
+      }
+    },
+    {
+      "week": "2014-02-10 00:00:00",
+      "visitors": 93,
+      "sales": 521,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -21.19
+      }
+    },
+    {
+      "week": "2014-02-17 00:00:00",
+      "visitors": 111,
+      "sales": 518,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 19.35
+      }
+    },
+    {
+      "week": "2014-02-24 00:00:00",
+      "visitors": 119,
+      "sales": 540,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.21
+      }
+    },
+    {
+      "week": "2014-03-03 00:00:00",
+      "visitors": 134,
+      "sales": 446,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 12.61
+      }
+    },
+    {
+      "week": "2014-03-10 00:00:00",
+      "visitors": 144,
+      "sales": 445,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.46
+      }
+    },
+    {
+      "week": "2014-03-17 00:00:00",
+      "visitors": 164,
+      "sales": 404,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 13.89
+      }
+    },
+    {
+      "week": "2014-03-24 00:00:00",
+      "visitors": 170,
+      "sales": 425,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.66
+      }
+    },
+    {
+      "week": "2014-03-31 00:00:00",
+      "visitors": 184,
+      "sales": 318,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.24
+      }
+    },
+    {
+      "week": "2014-04-07 00:00:00",
+      "visitors": 189,
+      "sales": 263,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.72
+      }
+    },
+    {
+      "week": "2014-04-14 00:00:00",
+      "visitors": 187,
+      "sales": 368,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.06
+      }
+    },
+    {
+      "week": "2014-04-21 00:00:00",
+      "visitors": 208,
+      "sales": 231,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.23
+      }
+    },
+    {
+      "week": "2014-04-28 00:00:00",
+      "visitors": 229,
+      "sales": 197,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 10.1
+      }
+    },
+    {
+      "week": "2014-05-05 00:00:00",
+      "visitors": 212,
+      "sales": 313,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.42
+      }
+    },
+    {
+      "week": "2014-05-12 00:00:00",
+      "visitors": 202,
+      "sales": 337,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.72
+      }
+    },
+    {
+      "week": "2014-05-19 00:00:00",
+      "visitors": 227,
+      "sales": 255,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 12.38
+      }
+    },
+    {
+      "week": "2014-05-26 00:00:00",
+      "visitors": 231,
+      "sales": 306,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.76
+      }
+    },
+    {
+      "week": "2014-06-02 00:00:00",
+      "visitors": 253,
+      "sales": 211,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 9.52
+      }
+    },
+    {
+      "week": "2014-06-09 00:00:00",
+      "visitors": 240,
+      "sales": 289,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -5.14
+      }
+    },
+    {
+      "week": "2014-06-16 00:00:00",
+      "visitors": 252,
+      "sales": 312,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.0
+      }
+    },
+    {
+      "week": "2014-06-23 00:00:00",
+      "visitors": 232,
+      "sales": 364,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.94
+      }
+    },
+    {
+      "week": "2014-06-30 00:00:00",
+      "visitors": 218,
+      "sales": 461,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -6.03
+      }
+    },
+    {
+      "week": "2014-07-07 00:00:00",
+      "visitors": 245,
+      "sales": 323,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 12.39
+      }
+    },
+    {
+      "week": "2014-07-14 00:00:00",
+      "visitors": 216,
+      "sales": 491,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -11.84
+      }
+    },
+    {
+      "week": "2014-07-21 00:00:00",
+      "visitors": 219,
+      "sales": 461,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.39
+      }
+    },
+    {
+      "week": "2014-07-28 00:00:00",
+      "visitors": 219,
+      "sales": 480,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2014-08-04 00:00:00",
+      "visitors": 212,
+      "sales": 515,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -3.2
+      }
+    },
+    {
+      "week": "2014-08-11 00:00:00",
+      "visitors": 218,
+      "sales": 413,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.83
+      }
+    },
+    {
+      "week": "2014-08-18 00:00:00",
+      "visitors": 229,
+      "sales": 338,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.05
+      }
+    },
+    {
+      "week": "2014-08-25 00:00:00",
+      "visitors": 218,
+      "sales": 432,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.8
+      }
+    },
+    {
+      "week": "2014-09-01 00:00:00",
+      "visitors": 201,
+      "sales": 525,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.8
+      }
+    },
+    {
+      "week": "2014-09-08 00:00:00",
+      "visitors": 204,
+      "sales": 506,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.49
+      }
+    },
+    {
+      "week": "2014-09-15 00:00:00",
+      "visitors": 214,
+      "sales": 419,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.9
+      }
+    },
+    {
+      "week": "2014-09-22 00:00:00",
+      "visitors": 212,
+      "sales": 350,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.93
+      }
+    },
+    {
+      "week": "2014-09-29 00:00:00",
+      "visitors": 214,
+      "sales": 367,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.94
+      }
+    },
+    {
+      "week": "2014-10-06 00:00:00",
+      "visitors": 196,
+      "sales": 391,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -8.41
+      }
+    },
+    {
+      "week": "2014-10-13 00:00:00",
+      "visitors": 172,
+      "sales": 415,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -12.24
+      }
+    },
+    {
+      "week": "2014-10-20 00:00:00",
+      "visitors": 177,
+      "sales": 442,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.91
+      }
+    },
+    {
+      "week": "2014-10-27 00:00:00",
+      "visitors": 167,
+      "sales": 413,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -5.65
+      }
+    },
+    {
+      "week": "2014-11-03 00:00:00",
+      "visitors": 164,
+      "sales": 410,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.8
+      }
+    },
+    {
+      "week": "2014-11-10 00:00:00",
+      "visitors": 134,
+      "sales": 345,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -18.29
+      }
+    },
+    {
+      "week": "2014-11-17 00:00:00",
+      "visitors": 128,
+      "sales": 395,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.48
+      }
+    },
+    {
+      "week": "2014-11-24 00:00:00",
+      "visitors": 130,
+      "sales": 408,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.56
+      }
+    },
+    {
+      "week": "2014-12-01 00:00:00",
+      "visitors": 140,
+      "sales": 382,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.69
+      }
+    },
+    {
+      "week": "2014-12-08 00:00:00",
+      "visitors": 123,
+      "sales": 477,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -12.14
+      }
+    },
+    {
+      "week": "2014-12-15 00:00:00",
+      "visitors": 91,
+      "sales": 537,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -26.02
+      }
+    },
+    {
+      "week": "2014-12-22 00:00:00",
+      "visitors": 68,
+      "sales": 559,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -25.27
+      }
+    },
+    {
+      "week": "2014-12-29 00:00:00",
+      "visitors": 94,
+      "sales": 549,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 38.24
+      }
+    },
+    {
+      "week": "2015-01-05 00:00:00",
+      "visitors": 78,
+      "sales": 557,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -17.02
+      }
+    },
+    {
+      "week": "2015-01-12 00:00:00",
+      "visitors": 86,
+      "sales": 547,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 10.26
+      }
+    },
+    {
+      "week": "2015-01-19 00:00:00",
+      "visitors": 93,
+      "sales": 568,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.14
+      }
+    },
+    {
+      "week": "2015-01-26 00:00:00",
+      "visitors": 91,
+      "sales": 475,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.15
+      }
+    },
+    {
+      "week": "2015-02-02 00:00:00",
+      "visitors": 111,
+      "sales": 473,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 21.98
+      }
+    },
+    {
+      "week": "2015-02-09 00:00:00",
+      "visitors": 119,
+      "sales": 456,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.21
+      }
+    },
+    {
+      "week": "2015-02-16 00:00:00",
+      "visitors": 152,
+      "sales": 479,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 27.73
+      }
+    },
+    {
+      "week": "2015-02-23 00:00:00",
+      "visitors": 145,
+      "sales": 421,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.61
+      }
+    },
+    {
+      "week": "2015-03-02 00:00:00",
+      "visitors": 127,
+      "sales": 522,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -12.41
+      }
+    },
+    {
+      "week": "2015-03-09 00:00:00",
+      "visitors": 135,
+      "sales": 475,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 6.3
+      }
+    },
+    {
+      "week": "2015-03-16 00:00:00",
+      "visitors": 154,
+      "sales": 478,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 14.07
+      }
+    },
+    {
+      "week": "2015-03-23 00:00:00",
+      "visitors": 185,
+      "sales": 409,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 20.13
+      }
+    },
+    {
+      "week": "2015-03-30 00:00:00",
+      "visitors": 172,
+      "sales": 452,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.03
+      }
+    },
+    {
+      "week": "2015-04-06 00:00:00",
+      "visitors": 180,
+      "sales": 385,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.65
+      }
+    },
+    {
+      "week": "2015-04-13 00:00:00",
+      "visitors": 194,
+      "sales": 385,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.78
+      }
+    },
+    {
+      "week": "2015-04-20 00:00:00",
+      "visitors": 216,
+      "sales": 263,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.34
+      }
+    },
+    {
+      "week": "2015-04-27 00:00:00",
+      "visitors": 217,
+      "sales": 316,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.46
+      }
+    },
+    {
+      "week": "2015-05-04 00:00:00",
+      "visitors": 236,
+      "sales": 180,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.76
+      }
+    },
+    {
+      "week": "2015-05-11 00:00:00",
+      "visitors": 216,
+      "sales": 333,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -8.47
+      }
+    },
+    {
+      "week": "2015-05-18 00:00:00",
+      "visitors": 245,
+      "sales": 206,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 13.43
+      }
+    },
+    {
+      "week": "2015-05-25 00:00:00",
+      "visitors": 243,
+      "sales": 189,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.82
+      }
+    },
+    {
+      "week": "2015-06-01 00:00:00",
+      "visitors": 222,
+      "sales": 295,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -8.64
+      }
+    },
+    {
+      "week": "2015-06-08 00:00:00",
+      "visitors": 240,
+      "sales": 284,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.11
+      }
+    },
+    {
+      "week": "2015-06-15 00:00:00",
+      "visitors": 231,
+      "sales": 366,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -3.75
+      }
+    },
+    {
+      "week": "2015-06-22 00:00:00",
+      "visitors": 225,
+      "sales": 417,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.6
+      }
+    },
+    {
+      "week": "2015-06-29 00:00:00",
+      "visitors": 230,
+      "sales": 362,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.22
+      }
+    },
+    {
+      "week": "2015-07-06 00:00:00",
+      "visitors": 194,
+      "sales": 603,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -15.65
+      }
+    },
+    {
+      "week": "2015-07-13 00:00:00",
+      "visitors": 216,
+      "sales": 479,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.34
+      }
+    },
+    {
+      "week": "2015-07-20 00:00:00",
+      "visitors": 217,
+      "sales": 483,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.46
+      }
+    },
+    {
+      "week": "2015-07-27 00:00:00",
+      "visitors": 203,
+      "sales": 478,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -6.45
+      }
+    },
+    {
+      "week": "2015-08-03 00:00:00",
+      "visitors": 205,
+      "sales": 553,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.99
+      }
+    },
+    {
+      "week": "2015-08-10 00:00:00",
+      "visitors": 209,
+      "sales": 548,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.95
+      }
+    },
+    {
+      "week": "2015-08-17 00:00:00",
+      "visitors": 211,
+      "sales": 472,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.96
+      }
+    },
+    {
+      "week": "2015-08-24 00:00:00",
+      "visitors": 224,
+      "sales": 422,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 6.16
+      }
+    },
+    {
+      "week": "2015-08-31 00:00:00",
+      "visitors": 221,
+      "sales": 328,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.34
+      }
+    },
+    {
+      "week": "2015-09-07 00:00:00",
+      "visitors": 220,
+      "sales": 347,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.45
+      }
+    },
+    {
+      "week": "2015-09-14 00:00:00",
+      "visitors": 219,
+      "sales": 433,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.45
+      }
+    },
+    {
+      "week": "2015-09-21 00:00:00",
+      "visitors": 203,
+      "sales": 403,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.31
+      }
+    },
+    {
+      "week": "2015-09-28 00:00:00",
+      "visitors": 201,
+      "sales": 371,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -0.99
+      }
+    },
+    {
+      "week": "2015-10-05 00:00:00",
+      "visitors": 199,
+      "sales": 417,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.0
+      }
+    },
+    {
+      "week": "2015-10-12 00:00:00",
+      "visitors": 197,
+      "sales": 444,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.01
+      }
+    },
+    {
+      "week": "2015-10-19 00:00:00",
+      "visitors": 182,
+      "sales": 401,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.61
+      }
+    },
+    {
+      "week": "2015-10-26 00:00:00",
+      "visitors": 161,
+      "sales": 434,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -11.54
+      }
+    },
+    {
+      "week": "2015-11-02 00:00:00",
+      "visitors": 159,
+      "sales": 503,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.24
+      }
+    },
+    {
+      "week": "2015-11-09 00:00:00",
+      "visitors": 155,
+      "sales": 447,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.52
+      }
+    },
+    {
+      "week": "2015-11-16 00:00:00",
+      "visitors": 134,
+      "sales": 419,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -13.55
+      }
+    },
+    {
+      "week": "2015-11-23 00:00:00",
+      "visitors": 130,
+      "sales": 482,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.99
+      }
+    },
+    {
+      "week": "2015-11-30 00:00:00",
+      "visitors": 126,
+      "sales": 519,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -3.08
+      }
+    },
+    {
+      "week": "2015-12-07 00:00:00",
+      "visitors": 116,
+      "sales": 539,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.94
+      }
+    },
+    {
+      "week": "2015-12-14 00:00:00",
+      "visitors": 88,
+      "sales": 480,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -24.14
+      }
+    },
+    {
+      "week": "2015-12-21 00:00:00",
+      "visitors": 88,
+      "sales": 498,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2015-12-28 00:00:00",
+      "visitors": 107,
+      "sales": 489,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 21.59
+      }
+    },
+    {
+      "week": "2016-01-04 00:00:00",
+      "visitors": 113,
+      "sales": 557,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.61
+      }
+    },
+    {
+      "week": "2016-01-11 00:00:00",
+      "visitors": 108,
+      "sales": 542,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.42
+      }
+    },
+    {
+      "week": "2016-01-18 00:00:00",
+      "visitors": 87,
+      "sales": 571,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -19.44
+      }
+    },
+    {
+      "week": "2016-01-25 00:00:00",
+      "visitors": 117,
+      "sales": 520,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 34.48
+      }
+    },
+    {
+      "week": "2016-02-01 00:00:00",
+      "visitors": 104,
+      "sales": 458,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -11.11
+      }
+    },
+    {
+      "week": "2016-02-08 00:00:00",
+      "visitors": 126,
+      "sales": 436,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 21.15
+      }
+    },
+    {
+      "week": "2016-02-15 00:00:00",
+      "visitors": 141,
+      "sales": 455,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.9
+      }
+    },
+    {
+      "week": "2016-02-22 00:00:00",
+      "visitors": 155,
+      "sales": 395,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 9.93
+      }
+    },
+    {
+      "week": "2016-02-29 00:00:00",
+      "visitors": 173,
+      "sales": 401,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.61
+      }
+    },
+    {
+      "week": "2016-03-07 00:00:00",
+      "visitors": 170,
+      "sales": 439,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.73
+      }
+    },
+    {
+      "week": "2016-03-14 00:00:00",
+      "visitors": 176,
+      "sales": 410,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.53
+      }
+    },
+    {
+      "week": "2016-03-21 00:00:00",
+      "visitors": 186,
+      "sales": 337,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.68
+      }
+    },
+    {
+      "week": "2016-03-28 00:00:00",
+      "visitors": 208,
+      "sales": 301,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 11.83
+      }
+    },
+    {
+      "week": "2016-04-04 00:00:00",
+      "visitors": 218,
+      "sales": 230,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.81
+      }
+    },
+    {
+      "week": "2016-04-11 00:00:00",
+      "visitors": 228,
+      "sales": 196,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.59
+      }
+    },
+    {
+      "week": "2016-04-18 00:00:00",
+      "visitors": 233,
+      "sales": 182,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.19
+      }
+    },
+    {
+      "week": "2016-04-25 00:00:00",
+      "visitors": 234,
+      "sales": 171,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.43
+      }
+    },
+    {
+      "week": "2016-05-02 00:00:00",
+      "visitors": 237,
+      "sales": 233,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.28
+      }
+    },
+    {
+      "week": "2016-05-09 00:00:00",
+      "visitors": 246,
+      "sales": 259,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.8
+      }
+    },
+    {
+      "week": "2016-05-16 00:00:00",
+      "visitors": 260,
+      "sales": 251,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 5.69
+      }
+    },
+    {
+      "week": "2016-05-23 00:00:00",
+      "visitors": 238,
+      "sales": 313,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -8.46
+      }
+    },
+    {
+      "week": "2016-05-30 00:00:00",
+      "visitors": 244,
+      "sales": 338,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.52
+      }
+    },
+    {
+      "week": "2016-06-06 00:00:00",
+      "visitors": 246,
+      "sales": 322,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.82
+      }
+    },
+    {
+      "week": "2016-06-13 00:00:00",
+      "visitors": 242,
+      "sales": 354,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.63
+      }
+    },
+    {
+      "week": "2016-06-20 00:00:00",
+      "visitors": 237,
+      "sales": 408,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.07
+      }
+    },
+    {
+      "week": "2016-06-27 00:00:00",
+      "visitors": 226,
+      "sales": 486,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.64
+      }
+    },
+    {
+      "week": "2016-07-04 00:00:00",
+      "visitors": 227,
+      "sales": 479,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.44
+      }
+    },
+    {
+      "week": "2016-07-11 00:00:00",
+      "visitors": 209,
+      "sales": 567,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.93
+      }
+    },
+    {
+      "week": "2016-07-18 00:00:00",
+      "visitors": 225,
+      "sales": 471,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 7.66
+      }
+    },
+    {
+      "week": "2016-07-25 00:00:00",
+      "visitors": 204,
+      "sales": 588,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -9.33
+      }
+    },
+    {
+      "week": "2016-08-01 00:00:00",
+      "visitors": 222,
+      "sales": 486,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 8.82
+      }
+    },
+    {
+      "week": "2016-08-08 00:00:00",
+      "visitors": 213,
+      "sales": 540,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.05
+      }
+    },
+    {
+      "week": "2016-08-15 00:00:00",
+      "visitors": 219,
+      "sales": 489,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.82
+      }
+    },
+    {
+      "week": "2016-08-22 00:00:00",
+      "visitors": 221,
+      "sales": 497,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.91
+      }
+    },
+    {
+      "week": "2016-08-29 00:00:00",
+      "visitors": 208,
+      "sales": 529,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -5.88
+      }
+    },
+    {
+      "week": "2016-09-05 00:00:00",
+      "visitors": 217,
+      "sales": 402,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 4.33
+      }
+    },
+    {
+      "week": "2016-09-12 00:00:00",
+      "visitors": 222,
+      "sales": 417,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 2.3
+      }
+    },
+    {
+      "week": "2016-09-19 00:00:00",
+      "visitors": 222,
+      "sales": 435,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 0.0
+      }
+    },
+    {
+      "week": "2016-09-26 00:00:00",
+      "visitors": 225,
+      "sales": 418,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 1.35
+      }
+    },
+    {
+      "week": "2016-10-03 00:00:00",
+      "visitors": 215,
+      "sales": 443,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.44
+      }
+    },
+    {
+      "week": "2016-10-10 00:00:00",
+      "visitors": 204,
+      "sales": 345,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -5.12
+      }
+    },
+    {
+      "week": "2016-10-17 00:00:00",
+      "visitors": 200,
+      "sales": 349,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.96
+      }
+    },
+    {
+      "week": "2016-10-24 00:00:00",
+      "visitors": 186,
+      "sales": 414,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.0
+      }
+    },
+    {
+      "week": "2016-10-31 00:00:00",
+      "visitors": 169,
+      "sales": 439,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -9.14
+      }
+    },
+    {
+      "week": "2016-11-07 00:00:00",
+      "visitors": 166,
+      "sales": 371,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -1.78
+      }
+    },
+    {
+      "week": "2016-11-14 00:00:00",
+      "visitors": 153,
+      "sales": 395,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -7.83
+      }
+    },
+    {
+      "week": "2016-11-21 00:00:00",
+      "visitors": 159,
+      "sales": 310,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": 3.92
+      }
+    },
+    {
+      "week": "2016-11-28 00:00:00",
+      "visitors": 143,
+      "sales": 438,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -10.06
+      }
+    },
+    {
+      "week": "2016-12-05 00:00:00",
+      "visitors": 128,
+      "sales": 494,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -10.49
+      }
+    },
+    {
+      "week": "2016-12-12 00:00:00",
+      "visitors": 125,
+      "sales": 432,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -2.34
+      }
+    },
+    {
+      "week": "2016-12-19 00:00:00",
+      "visitors": 119,
+      "sales": 464,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -4.8
+      }
+    },
+    {
+      "week": "2016-12-26 00:00:00",
+      "visitors": 105,
+      "sales": 574,
+      "revenue": 0.0,
+      "change": {
+        "visitors_pct": -11.76
+      }
+    }
+  ],
+  "anomalies": [
+    {
+      "week": "2012-12-31 00:00:00",
+      "description": "Visitors=46, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2013-05-20 00:00:00",
+      "description": "Visitors=261, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-01-06 00:00:00",
+      "description": "Visitors=85, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-01-20 00:00:00",
+      "description": "Visitors=99, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-03-10 00:00:00",
+      "description": "Visitors=144, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-06-02 00:00:00",
+      "description": "Visitors=253, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-06-09 00:00:00",
+      "description": "Visitors=240, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-06-16 00:00:00",
+      "description": "Visitors=252, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-12-01 00:00:00",
+      "description": "Visitors=140, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2014-12-22 00:00:00",
+      "description": "Visitors=68, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2015-01-05 00:00:00",
+      "description": "Visitors=78, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2015-02-16 00:00:00",
+      "description": "Visitors=152, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2015-02-23 00:00:00",
+      "description": "Visitors=145, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2015-06-08 00:00:00",
+      "description": "Visitors=240, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-02-01 00:00:00",
+      "description": "Visitors=104, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-02-15 00:00:00",
+      "description": "Visitors=141, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-05-09 00:00:00",
+      "description": "Visitors=246, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-05-16 00:00:00",
+      "description": "Visitors=260, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-06-06 00:00:00",
+      "description": "Visitors=246, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-06-13 00:00:00",
+      "description": "Visitors=242, Revenue=0.0 (flagged as anomaly)"
+    },
+    {
+      "week": "2016-11-28 00:00:00",
+      "description": "Visitors=143, Revenue=0.0 (flagged as anomaly)"
+    }
+  ]
+}
