@@ -3,7 +3,7 @@
 Tagline:
 A fully automated ETL + AI system that converts raw CSV time-series data into weekly aggregated insights, AI-generated narratives, and a PowerPoint report — all in under 30 seconds.
 
-1. The Problem (Real-World Scenario)
+## 1. The Problem (Real-World Scenario)
 Context
 
 Organizations generate massive amounts of raw CSV data — weather logs, sales data, performance metrics, ad spends, traffic logs, etc.
@@ -48,7 +48,7 @@ Runs end-to-end with one command
 
 This reduces hours of analyst work into 30 seconds.
 
-2. Expected End Result
+## 2. Expected End Result
 For the User
 Input
 
@@ -79,7 +79,7 @@ insights_ai.json → AI-generated narrative
 
 report.pptx → Final presentation (charts + insights)
 
-3. Technical Approach
+## 3. Technical Approach
 
 GroundTruth is designed as a modular ETL pipeline, following industry best practices.
 
@@ -134,7 +134,7 @@ Weekly table
 
 Insight summary
 
-4. Tech Stack
+## 4. Tech Stack
 
 Language: Python 3.x
 
@@ -148,7 +148,7 @@ Visualization: Matplotlib (optional)
 
 ETL Framework: Custom pipeline
 
-5. Challenges & Learnings
+## 5. Challenges & Learnings
 Challenge 1: Inconsistent Datasets
 
 Some datasets lacked the required columns (date, numeric fields).
@@ -170,7 +170,7 @@ AI summaries sometimes inflated numbers.
 Solution:
 Strict “use only provided statistics” guardrails.
 
-6. Visual Proof
+## 6. Visual Proof
 PPT Output
 
 Generated report contains:
@@ -185,7 +185,7 @@ Auto-generated title slide
 
 (Include screenshots here if you want)
 
-7. Folder Structure
+## 7. Folder Structure
 insight-engine-updated/
 │
 ├── data/
@@ -205,7 +205,7 @@ insight-engine-updated/
 ├── requirements.txt
 └── README.md
 
-8. How to Run
+## 8. How to Run
 1. Clone the Repo
 git clone https://github.com/Akashkapoor11/Groundtruth.git
 cd Groundtruth
