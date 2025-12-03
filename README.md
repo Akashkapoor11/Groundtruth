@@ -1,60 +1,233 @@
+## 🚀 GroundTruth: Automated Insight Engine
 
-# Insight Engine (H-001) - Automated Insight Engine (Hackathon-ready)
+Tagline:
+A fully automated ETL + AI system that converts raw CSV time-series data into weekly aggregated insights, AI-generated narratives, and a PowerPoint report — all in under 30 seconds.
 
-This repository is a complete end-to-end prototype for **H-001 — The Automated Insight Engine**.
-It ingests a CSV dataset, transforms and aggregates metrics, detects anomalies, produces AI-written
-insights (via OpenAI / fallback template), and generates a PDF + PPTX report.
+1. The Problem (Real-World Scenario)
+Context
 
-## Structure
-```
-insight-engine/
+Organizations generate massive amounts of raw CSV data — weather logs, sales data, performance metrics, ad spends, traffic logs, etc.
+Yet, analysts still spend hours every week manually:
+
+Cleaning the CSV
+
+Aggregating weekly trends
+
+Finding insights
+
+Generating reports
+
+Summarizing results for leadership
+
+Pain Point
+
+This manual workflow is:
+
+❌ Slow
+❌ Error-prone
+❌ Boring
+❌ Hard to scale
+
+Teams waste time on formatting instead of real decision-making.
+
+My Solution — GroundTruth
+
+I built GroundTruth, a completely automated system that:
+
+Ingests any time-series CSV
+
+Cleans & validates data
+
+Aggregates weekly insights
+
+Generates AI-written summaries
+
+Exports a ready-to-share PowerPoint report
+
+Runs end-to-end with one command
+
+This reduces hours of analyst work into 30 seconds.
+
+2. Expected End Result
+For the User
+Input
+
+📁 Drop a CSV file inside:
+
+data/input/
+
+Action
+
+▶ Run:
+
+python -m src.main
+
+Output
+
+Automatically generated inside:
+
+data/final/
+
+
+Includes:
+
+weekly_agg.csv → Week-over-week trends
+
+insights.json → Rule-based statistics
+
+insights_ai.json → AI-generated narrative
+
+report.pptx → Final presentation (charts + insights)
+
+3. Technical Approach
+
+GroundTruth is designed as a modular ETL pipeline, following industry best practices.
+
+System Architecture
+1. Ingestion
+
+Reads raw CSV
+
+Auto-detects date column
+
+Cleans missing values
+
+Stores sanitized data → data/staging/cleaned.csv
+
+2. Transformation
+
+Converts data into weekly buckets
+
+Computes:
+
+Average temperature / sales / KPI
+
+Total values per week
+
+Min-Max trends
+
+3. Analysis
+
+Extracts:
+
+Latest week summary
+
+Column-wise stats
+
+Week-over-week changes
+
+4. AI Insight Generation
+
+Creates human-like summaries
+
+Highlights anomalies
+
+Converts numbers → stories
+
+5. Reporting
+
+Generates a PowerPoint report:
+
+Title page
+
+Weekly table
+
+Insight summary
+
+4. Tech Stack
+
+Language: Python 3.x
+
+Libraries: Pandas, Polars, Scikit-Learn
+
+Reporting: python-pptx
+
+AI: Local LLM summarization (or OpenAI/Gemini if plugged in)
+
+Visualization: Matplotlib (optional)
+
+ETL Framework: Custom pipeline
+
+5. Challenges & Learnings
+Challenge 1: Inconsistent Datasets
+
+Some datasets lacked the required columns (date, numeric fields).
+
+Solution:
+Auto-detect date column and dynamically map numeric metrics.
+
+Challenge 2: Weekly Aggregation Bugs
+
+Missing weeks created reporting gaps.
+
+Solution:
+Introduced resampling + auto-fill for missing dates.
+
+Challenge 3: AI Narrative Accuracy
+
+AI summaries sometimes inflated numbers.
+
+Solution:
+Strict “use only provided statistics” guardrails.
+
+6. Visual Proof
+PPT Output
+
+Generated report contains:
+
+Latest week summary
+
+Weekly aggregated table
+
+Clean formatting
+
+Auto-generated title slide
+
+(Include screenshots here if you want)
+
+7. Folder Structure
+insight-engine-updated/
+│
 ├── data/
-│   ├── input/          # put market_data.csv here (already included if you uploaded)
-│   ├── staging/
-│   └── final/
+│   ├── input/          # Raw CSV goes here
+│   ├── staging/        # Cleaned intermediate files
+│   └── final/          # Final outputs (CSV, JSON, PPTX)
+│
 ├── src/
-│   ├── ingest.py
-│   ├── transform.py
-│   ├── analyze.py
-│   ├── generate_insights.py
-│   ├── generate_report.py
-│   └── main.py
-├── assets/
-│   ├── template.html
-│   └── template.pptx
+│   ├── ingest.py       # Data ingestion
+│   ├── transform.py    # Weekly aggregation
+│   ├── analyze.py      # Statistical analysis
+│   ├── generate_insights.py  # AI narrative generation
+│   ├── generate_report.py    # PPTX generator
+│   └── main.py         # Pipeline orchestrator
+│
+├── assets/             # HTML / templates
 ├── requirements.txt
 └── README.md
-```
 
-## How to run (locally)
-1. Create and activate a Python venv:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # or venv\Scripts\activate on Windows
-   pip install -r requirements.txt
-   ```
+8. How to Run
+1. Clone the Repo
+git clone https://github.com/Akashkapoor11/Groundtruth.git
+cd Groundtruth
 
-2. Place your CSV into `data/input/market_data.csv` (the repo includes the uploaded CSV if provided).
+2. Create Virtual Environment
+python -m venv venv
+venv\Scripts\activate
 
-3. (Optional) Set `OPENAI_API_KEY` to enable AI-generated narrative (or the code will use template text).
-   ```bash
-   export OPENAI_API_KEY="sk-..."
-   ```
+3. Install Dependencies
+pip install -r requirements.txt
 
-4. Run the pipeline:
-   ```bash
-   python src/main.py
-   ```
+4. Add Your CSV
 
-5. Outputs:
-   - `data/staging/cleaned.csv`
-   - `data/final/weekly_agg.csv`
-   - `data/final/insights.json`
-   - `data/final/report.pdf`
-   - `data/final/report.pptx`
+Place your file inside:
 
-## Notes
-- The AI integration uses `openai` by default. Replace with Google Gemini calls if you prefer.
-- The HTML -> PDF conversion uses WeasyPrint. If you cannot install WeasyPrint on your environment,
-  the repository still generates the PPTX output using `python-pptx`.
-- Templates and prompts are in `src/generate_insights.py` and `assets/template.html`.
+data/input/market_data.csv
+
+5. Run Pipeline
+python -m src.main
+
+6. Check Output
+data/final/report.pptx
+data/final/weekly_agg.csv
+data/final/insights.json
+data/final/insights_ai.json
