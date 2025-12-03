@@ -185,27 +185,7 @@ Auto-generated title slide
 
 (Include screenshots here if you want)
 
-## 7. Folder Structure
-insight-engine-updated/
-│
-├── data/
-│   ├── input/          # Raw CSV goes here
-│   ├── staging/        # Cleaned intermediate files
-│   └── final/          # Final outputs (CSV, JSON, PPTX)
-│
-├── src/
-│   ├── ingest.py       # Data ingestion
-│   ├── transform.py    # Weekly aggregation
-│   ├── analyze.py      # Statistical analysis
-│   ├── generate_insights.py  # AI narrative generation
-│   ├── generate_report.py    # PPTX generator
-│   └── main.py         # Pipeline orchestrator
-│
-├── assets/             # HTML / templates
-├── requirements.txt
-└── README.md
-
-## 8. How to Run
+## 7. How to Run
 1. Clone the Repo
 git clone https://github.com/Akashkapoor11/Groundtruth.git
 cd Groundtruth
