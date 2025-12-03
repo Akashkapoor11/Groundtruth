@@ -79,6 +79,11 @@ insights_ai.json → AI-generated narrative
 
 report.pptx → Final presentation (charts + insights)
 
+<img width="1914" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a235f6bf-a3e8-4629-8dbd-6f67ebdf6d0c" />
+<img width="1917" height="1075" alt="Image" src="https://github.com/user-attachments/assets/8da9b4e8-3e4b-4eb1-933d-99566fe26b78" />
+<img width="1917" height="1079" alt="Image" src="https://github.com/user-attachments/assets/644dff3a-5452-4f62-9686-8de6ae792819" />
+<img width="1919" height="1074" alt="Image" src="https://github.com/user-attachments/assets/58875904-15e2-4e51-921f-7715e301697d" />
+
 ## 3. Technical Approach
 
 GroundTruth is designed as a modular ETL pipeline, following industry best practices.
